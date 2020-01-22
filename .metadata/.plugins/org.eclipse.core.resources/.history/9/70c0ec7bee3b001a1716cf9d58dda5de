@@ -1,0 +1,6 @@
+package app2;
+
+public abstract class MyBeanStyle {
+	abstract void testHello(String name);
+	abstract void hello(String name);
+}

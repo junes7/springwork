@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- <beans></beans> => root element이다. -->
+	<!-- bean(객체)을 생성할 수 있도록 정보를 정의 -->
+	<!-- <bean></bean> 또는 <bean/> 이렇게 정의 할 수 있다. -->
+	<!-- app3.MyBeanStyleA mybean = new app3.MyBeanStyleA()와 동일한 의미 -->
+	<bean id="mybean" class="app3.MyBeanStyleA" />
+
+
+
+
+</beans>

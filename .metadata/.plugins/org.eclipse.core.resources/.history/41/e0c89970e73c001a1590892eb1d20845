@@ -1,0 +1,29 @@
+package di.constructor01;
+
+public class Player implements AbstractPlayer {
+	AbstractDice d;
+	int totalValue=0;
+	public Player() {
+		
+	}
+	public Player(AbstractDice d) {
+		this.d = d;
+	}
+	
+	/* (non-Javadoc)
+	 * @see di.constructor01.AbstractPlayer#play()
+	 */
+	public void play(){
+			totalValue=0;
+		for (int i = 0; i < 3; i++) {
+			totalValue+=d.getDiceValue();
+		}
+	}
+	
+	/* (non-Javadoc)
+	 * @see di.constructor01.AbstractPlayer#getTotalValue()
+	 */
+	public int getTotalValue(){
+		return totalValue;
+	}
+}

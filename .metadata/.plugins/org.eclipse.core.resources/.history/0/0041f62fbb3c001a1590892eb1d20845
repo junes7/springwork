@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- <beans></beans> => root element이다. -->
+	<!-- bean(객체)을 생성할 수 있도록 정보를 정의 -->
+	<!-- <bean></bean> 또는 <bean/> 이렇게 정의 할 수 있다. -->
+	<!-- app3.MyBeanStyleA mybean = new app3.MyBeanStyleA()와 동일한 의미 -->
+	<!-- 낙타표기법:어떤 단어와 단어 사이에 잘 구분해주기 위해서 단어의 첫 글자를 대문자로 쓰는 표기법 -->
+	<!-- my bean : myBean -->
+	<!-- <bean id="myBean" class="app3.MyBeanStyleA" /> -->
+	<!-- 아래가 파싱하는 방법이다. -->
+	<bean id="myBean" class="app3.MyBeanStyleB" />
+	
+</beans>

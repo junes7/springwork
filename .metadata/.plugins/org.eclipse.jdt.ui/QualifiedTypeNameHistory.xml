@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="basic.MemberDTO"/>
+<fullyQualifiedTypeName name="app1.MyBeanStyleA"/>
+<fullyQualifiedTypeName name="app2.MyBeanStyle"/>
+<fullyQualifiedTypeName name="app2.MyBeanStyleB"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="app3.MyBeanStyle"/>
+</qualifiedTypeNameHistroy>

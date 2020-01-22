@@ -1,0 +1,15 @@
+1579667500634	Rename package 'exam01'
+1579670522167	Copy package
+1579670539365	Delete element
+1579670546928	Copy compilation units
+1579670563679	Move compilation units
+1579673999515	Copy compilation units
+1579674013829	Move compilation units
+1579674367616	Rename type 'random'
+1579675659420	Delete element
+1579677241697	Delete element
+1579677351316	Extract interface 'AbstractPlayer'
+1579677386288	Delete element
+1579677416455	Extract interface 'AbstractPlayer'
+1579677433064	Delete element
+1579677457530	Extract interface 'AbstractDice'

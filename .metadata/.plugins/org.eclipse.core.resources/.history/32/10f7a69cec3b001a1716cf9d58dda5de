@@ -1,0 +1,21 @@
+package app1;
+//°³¹ß ¹æ½ÄÀ» Á¤ÇØ ³õ¾Ò´Ù.
+public class MyBeanTest {
+	public static void main(String[] args) {
+		MyBeanStyleA obj = new MyBeanStyleA();
+		run(obj);
+		show(obj);
+	}
+	public static void run(MyBeanStyleA obj) {
+		System.out.println("**************************");
+		obj.testHello("Çöºó");
+		obj.testHello("Çöºó");
+		System.out.println("**************************");
+	}
+	public static void show(MyBeanStyleA obj) {
+		System.out.println("===========================");
+		obj.testHello("Çöºó");
+		obj.testHello("Çöºó");
+		System.out.println("===========================");
+	}
+}
