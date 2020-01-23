@@ -1,7 +1,7 @@
 package di.constructor.basic;
 
 public class MemberDAO {
-	public void add(MemberDTO user){
+	public void addUser(MemberDTO user){
 		System.out.println("회원가입");
 	}
 	public MemberDTO getUser(String id){

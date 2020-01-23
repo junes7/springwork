@@ -13,3 +13,12 @@
 1579677416455	Extract interface 'AbstractPlayer'
 1579677433064	Delete element
 1579677457530	Extract interface 'AbstractDice'
+1579740693593	Rename package 'dl.exam01'
+1579741714074	Extract interface 'AbstractSonySpeaker'
+1579741869014	Rename compilation unit 'AbstractSonySpeaker.java'
+1579742864779	Rename type 'AbstractSpeaker'
+1579745643381	Rename package 'di.constructor01'
+1579747471983	Rename package 'book.exam'
+1579747536243	Copy compilation units
+1579754432086	Copy compilation units
+1579754947084	Copy compilation units

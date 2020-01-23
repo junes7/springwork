@@ -2,8 +2,29 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="basic.MemberDTO"/>
 <fullyQualifiedTypeName name="app1.MyBeanStyleA"/>
-<fullyQualifiedTypeName name="app2.MyBeanStyle"/>
 <fullyQualifiedTypeName name="app2.MyBeanStyleB"/>
-<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.parser.Element"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Element"/>
+<fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+<fullyQualifiedTypeName name="app2.MyBeanStyle"/>
 <fullyQualifiedTypeName name="app3.MyBeanStyle"/>
+<fullyQualifiedTypeName name="app3.MyBeanStyleA"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+<fullyQualifiedTypeName name="di.constructor01.Random"/>
+<fullyQualifiedTypeName name="di.constructor01.Player"/>
+<fullyQualifiedTypeName name="di.constructor01.AbstractPlayer"/>
+<fullyQualifiedTypeName name="di.constructor02.Logic"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="book.exam.AbstractSpeaker"/>
+<fullyQualifiedTypeName name="book.exam.SonySpeaker"/>
 </qualifiedTypeNameHistroy>
