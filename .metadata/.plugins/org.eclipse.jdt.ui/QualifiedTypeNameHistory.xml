@@ -27,4 +27,21 @@
 <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
 <fullyQualifiedTypeName name="book.exam.AbstractSpeaker"/>
 <fullyQualifiedTypeName name="book.exam.SonySpeaker"/>
+<fullyQualifiedTypeName name="di.constructor03.IArticleDAO"/>
+<fullyQualifiedTypeName name="di.constructor03.IWriteArticleMgr"/>
+<fullyQualifiedTypeName name="di.constructor03.WriteArticleMgr"/>
+<fullyQualifiedTypeName name="di.constructor03.ArticleDTO"/>
+<fullyQualifiedTypeName name="di.setter01.AbstractDice"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="di.etc.CollectionTest"/>
+<fullyQualifiedTypeName name="di.etc.ConstructorTest"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="firstexam.JobDAO"/>
 </qualifiedTypeNameHistroy>
