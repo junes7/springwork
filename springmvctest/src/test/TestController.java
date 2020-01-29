@@ -12,8 +12,6 @@ public class TestController implements Controller {
 			HttpServletResponse arg1) throws Exception {
 		System.out.println("컨트롤러 요청 완료");
 		
-		
-		
 		//3. 화면 네비게이션
 		ModelAndView mav = new ModelAndView();
 		String data="";
