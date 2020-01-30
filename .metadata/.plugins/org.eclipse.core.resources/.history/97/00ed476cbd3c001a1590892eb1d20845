@@ -1,9 +1,0 @@
-package app3;
-
-/*public interface MyBeanStyle {
-	void hello(String name);
-}*/
-
-public abstract class MyBeanStyle {
-	public abstract void hello(String name);
-}

@@ -1,6 +1,0 @@
-package di.constructor01;
-
-public interface AbstractPlayer {
-	Dice d = null;
-	int getTotalValue();
-}

@@ -1,6 +1,0 @@
-package di.constructor01;
-
-public interface Random {
-	int getDiceValue();
-	Player getTotalValue();
-}
